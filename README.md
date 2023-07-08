@@ -1,4 +1,4 @@
-# EBS Volume Converter Project
+# Automated EBS VOlume Conversion
 
 The EBS Volume Converter project is a Python Script that converts GP2 (General Purpose SSD) EBS volumes to GP3 (General Purpose SSD) volumes. It utilizes the Boto3 library and AWS Lambda to automate the conversion process, providing a seamless transition between storage types. The project also triggers CloudWatch logs to track EBS volume creation events. 
 
@@ -23,7 +23,7 @@ The EBS Volume Converter project is a Python Script that converts GP2 (General P
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/SenChirag/EBS_Volume_convertor.git
+   git clone https://github.com/SenChirag/Automated-EBS-Volume-Conversion.git
    ```
 
 2. Navigate to the project directory:
